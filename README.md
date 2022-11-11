@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Profissão: Estagiário na área de programação (front end, back and, developer)
+- 🔭 Profissão: Estagiário na Universidade Estadual de Montes Claros
 - 🌱 Estudando atualmente: DataScienc(área que desejo me especializar), Machine Learning e Algoritmos Evolutivos,PowerBi DataScience,lingua Inglesa além das disciplinas da faculdade
 - 👯 Linguagens mais familares: Python, C, JavaScript
 - 😄 Sobre: Sou técnico em informática para Internet e acadêmico de Engenharia de Sistemas na Universidade Estadual de Montes Claros - Unimontes.
@@ -20,7 +20,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
  
-  <!--<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
+  <!--<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
   
  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,7 +33,7 @@
   <img align="center" alt="django" heigth="60" width='70' src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
   
-  
+  >-->
 </div>
   
 ##  
