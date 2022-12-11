@@ -1,7 +1,7 @@
 ### Fala pessoal, eu sou Matheus Parrela! 👋
 
 - 🔭 Profissão: Estagiário na Universidade Estadual de Montes Claros
-- 😄 Sobre: Sou técnico em informática para Internet e acadêmico de Engenharia de Sistemas na Universidade Estadual de Montes Claros - Unimontes.
+- 😄 Sobre: Sou técnico em informática para Internet e acadêmico de Engenharia de Sistemas na Universidade Estadual de Montes Claros - Unimontes. Tenho grande interrese pelo setor aeroespacial, astronomia e ciências de dados.
 - 👯 Linguagens: Python, C
 - 📚 Estudando Sql
 
