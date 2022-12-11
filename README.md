@@ -1,4 +1,4 @@
-### Fala pessoal, eu sou Matheus Parrela! 👋
+### Fala pessoal, meu nome é Matheus Parrela! 👋
 
 - 🔭 Profissão: Estagiário na Universidade Estadual de Montes Claros
 - 😄 Sobre: Sou técnico em informática para Internet e acadêmico de Engenharia de Sistemas na Universidade Estadual de Montes Claros - Unimontes. Tenho grande interesse pelo setor aeroespacial, astronomia e ciências de dados.
