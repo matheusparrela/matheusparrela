@@ -1,8 +1,9 @@
-### Fala devs, eu sou o Matheus Parrela! 👋
+### Fala pessoal, eu sou Matheus Parrela! 👋
 
 - 🔭 Profissão: Estagiário na Universidade Estadual de Montes Claros
 - 😄 Sobre: Sou técnico em informática para Internet e acadêmico de Engenharia de Sistemas na Universidade Estadual de Montes Claros - Unimontes.
-- 👯 Linguagens mais familares: Python, C
+- 👯 Linguagens: Python, C
+- 📚 Estudando Sql
 
 <div>
   <a href="https://github.com/matheusparrela">
