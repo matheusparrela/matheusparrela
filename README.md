@@ -5,4 +5,3 @@ Além disso, sou membro da equipe de Minifoguetes Luna Rocket Team da Unimontes,
 Minha experiência inclui programação em Python, utilização do Git e Github para versionamento de projetos e Trello, onde gerencio meus projetos.
 
 - 👯 Linguagens: Python, C
-- 📚 Estudando SQL
